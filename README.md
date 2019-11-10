@@ -1,5 +1,7 @@
 # Plagiarism Project, Machine Learning Deployment
 
+The project is pursued as a part of Machine Learning Engineer Nanodegree by Udacity. A great deal of code (initial commit of this repository) was developed by the Udacity team and in not my original work.
+
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
 ## Project Overview
